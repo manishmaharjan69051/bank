@@ -934,7 +934,6 @@ h2.word-rotator-title .word-rotate {
 	display: block;
 	color: #777;
 	line-height: 1;
-	border-top: 1px solid #ddd;
 	text-transform: capitalize;
 	-webkit-transition: none;
 	-moz-transition: none;
