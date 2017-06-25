@@ -951,9 +951,7 @@ h2.word-rotator-title .word-rotate {
 #header .header-nav-main nav > ul > li.dropdown-full-color.dropdown-primary > a.dropdown-toggle {
 	color: #777;
 }
-#header .header-nav-main nav > ul > li.dropdown-full-color.dropdown-primary ul > li > a {
-	border-top: 1px solid #fff;
-}
+
 #header .header-nav-main nav > ul > li.dropdown-full-color.dropdown-primary ul > li:first-child > a {
 	border-top: none;
 }
