@@ -149,16 +149,7 @@
 								</div>
 								<div class="header-column">
 									<div class="row">
-										<div class="cart-area">
-											<div class="custom-block">
-												<i class="fa fa-phone"></i>
-												<span>(+404) 158 14 25 78</span>
-												<span class="split"></span>
-												<a href="#">CONTACT US</a>
-											</div>
-
-									
-										</div>
+										
 										
 										<div class="header-search">
 											<a href="#" class="search-toggle"><i class="fa fa-search"></i></a>
@@ -169,6 +160,17 @@
 													<button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
 												</div>
 											</form>
+										</div>
+
+										<div class="cart-area">
+											<div class="custom-block">
+												<i class="fa fa-phone"></i>
+												<span>(+404) 158 14 25 78</span>
+												<span class="split"></span>
+												<a href="#">CONTACT US</a>
+											</div>
+
+									
 										</div>
 									</div>
 								</div>
